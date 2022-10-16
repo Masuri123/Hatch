@@ -137,6 +137,7 @@ if options.username == None:
 
 
 username = options.username
+login_page_selector = options.login
 username_selector = options.usernamesel
 password_selector = options.passsel
 login_btn_selector = options.loginsel
